@@ -21,8 +21,8 @@ Installation
 1. Download the zipped version of this repo.
 
 2. Open NetBeans, select Preferences, then Import in the lower left. Navigate
-   to the zip file you downloaded, check the Netbeans\_Solarized\_Dark box under
-   the Fonts & Colors section. 
+   to the zip file you downloaded, check the Netbeans\_Solarized\_Dark and/or 
+   Netbeans\_Solarized\_Light box under the Fonts & Colors section. 
 
 3. Restart NetBeans (just to be on the safe side). 
 
@@ -30,9 +30,9 @@ Which Variation?
 ----------------
 
 Normally there would be a discussion of 16- vs. 256-color versions of Solarized
-here, but I've only ported the 16-color dark version. This color scheme is also
-not as flashy/rich as the Vim ones due to lack of granularity in the NetBeans
-theme preferences.
+here, but I've only ported the 16-color version. This color scheme is also not as 
+flashy/rich as the Vim ones due to lack of granularity in the NetBeans theme 
+preferences.
 
 The Values
 ----------
