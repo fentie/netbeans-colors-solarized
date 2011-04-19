@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
 <fontscolors>
-    <fontcolor foreColor="ffff9900" name="mod-method">
+    <fontcolor foreColor="ffb58900" name="mod-method">
         <font style="bold"/>
     </fontcolor>
     <fontcolor default="default" name="others"/>
@@ -16,7 +16,7 @@
     <fontcolor name="mark-occurrences"/>
     <fontcolor default="separator" name="brace"/>
     <fontcolor default="string" name="string"/>
-    <fontcolor foreColor="ff99ccff" name="mod-custom1"/>
+    <fontcolor foreColor="ff268bd2" name="mod-custom1"/>
     <fontcolor foreColor="ff9999ff" name="mod-custom2">
         <font style="italic"/>
     </fontcolor>
