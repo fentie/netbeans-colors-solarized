@@ -18,10 +18,11 @@ visit the [github repository for Solarized][solarized-github].
 Installation
 ------------
 
-1. Download the zipped version of this repo.
+1. Download this repo. Unpack the downloaded file, then manually create a 
+   new zip file containing the "config" folder. 
 
 2. Open NetBeans, select Preferences, then Import in the lower left. Navigate
-   to the zip file you downloaded, check the Netbeans\_Solarized\_Dark and/or 
+   to the zip file you created, check the Netbeans\_Solarized\_Dark and/or 
    Netbeans\_Solarized\_Light box under the Fonts & Colors section. 
 
 3. Restart NetBeans (just to be on the safe side). 
