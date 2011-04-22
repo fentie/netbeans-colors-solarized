@@ -27,6 +27,9 @@ Installation
 
 3. Restart NetBeans (just to be on the safe side). 
 
+4. To use the new themes, go to Preferences, Fonts & Colors, and select either 
+   of the two new themes from the Profile dropdown, and hit OK.
+
 Which Variation?
 ----------------
 
