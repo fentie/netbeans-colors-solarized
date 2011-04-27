@@ -19,7 +19,7 @@ Installation
 ------------
 
 1. Download this repo. Unpack the downloaded file, then manually create a 
-   new zip file containing the "config" folder. 
+   new zip file containing the "config" folder.
 
 2. Open NetBeans, select Preferences, then Import in the lower left. Navigate
    to the zip file you created, check the Netbeans\_Solarized\_Dark and/or 
@@ -29,6 +29,14 @@ Installation
 
 4. To use the new themes, go to Preferences, Fonts & Colors, and select either 
    of the two new themes from the Profile dropdown, and hit OK.
+
+Known Issues
+------------
+
+Do not use the archive program built into Windows XP to create the zip file
+in step 1. It does not support file paths longer than a certain length, and
+that results in some missing preferences. If you are using Windows XP, use
+a third party archiver like 7zip (free).
 
 Which Variation?
 ----------------
