@@ -17,7 +17,7 @@
     <fontcolor bgColor="ff38566f" name="inc-search"/>
     <fontcolor foreColor="ffcc0099" name="synchronized-text-blocks-ext"/>
     <fontcolor foreColor="ff253e5a" name="code-folding-bar"/>
-    <fontcolor bgColor="ff38566f" name="highlight-search"/>
+    <fontcolor bgColor="ffeee8d5" name="highlight-search"/>
     <fontcolor bgColor="ffd83636" name="nbeditor-bracesMatching-mismatch-multichar"/>
     <fontcolor foreColor="ff996600" name="synchronized-text-blocks-ext-slave"/>
     <fontcolor bgColor="darkGray" name="guarded"/>
