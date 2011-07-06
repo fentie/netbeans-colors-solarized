@@ -20,7 +20,7 @@
         <font style="bold"/>
     </fontcolor>
     <fontcolor name="mod-local-variable"/>
-    <fontcolor default="constant" foreColor="white" name="constant">
+    <fontcolor default="constant" foreColor="ffb58900" name="constant">
         <font style="italic"/>
     </fontcolor>
     <fontcolor foreColor="ff6185a6" name="mod-parameter"/>
