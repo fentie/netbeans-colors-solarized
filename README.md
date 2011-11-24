@@ -13,7 +13,7 @@ visit the [github repository for Solarized][solarized-github].
 
 [solarized]: http://ethanschoonover.com/solarized
 [solarized-github]: https://github.com/altercation/solarized
-[netbeans-solarized-github]: https://github.com/altercation/netbeans-colors-solarized
+[netbeans-solarized-github]: https://github.com/fentie/netbeans-colors-solarized
 
 Installation
 ------------
