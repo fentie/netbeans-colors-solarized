@@ -16,7 +16,7 @@
     <fontcolor foreColor="ff2aa198" name="string"/>
     <fontcolor default="string" name="markup-attribute-value"/>
     <fontcolor default="default" foreColor="magenta" name="entity-reference"/>
-    <fontcolor default="identifier" foreColor="white" name="method"/>
+    <fontcolor default="identifier" name="method"/>
     <fontcolor foreColor="ff93a1a1" name="comment">
         <font style="italic"/>
     </fontcolor>
