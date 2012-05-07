@@ -40,5 +40,5 @@
     </fontcolor>
     <fontcolor default="comment" name="comment"/>
     <fontcolor default="identifier" foreColor="ff268bd2" name="identifier"/>
-    <fontcolor default="separator" name="separator"/>
+    <fontcolor default="separator" foreColor="ff586e75" name="separator"/>
 </fontscolors>
