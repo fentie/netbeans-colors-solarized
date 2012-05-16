@@ -18,7 +18,7 @@ visit the [github repository for Solarized][solarized-github].
 Installation
 ------------
 
-1. Download this repo. Unpack the downloaded file, then manually create a 
+1. Download the NetBeans Solarized repo. Unpack the downloaded file, then manually create a 
    new zip file containing the "config" folder.
 
 2. Open NetBeans, select Preferences, then Import in the lower left. Navigate
@@ -49,8 +49,9 @@ preferences.
 The Values
 ----------
 
-NetBeans uses RGB values for its colors. For the full list of colors specified in
-other formats, see [the main Solarized home page][solarized]
+The NetBeans color preferences UI supports RGB, HSB, and hex values. I prefer the
+RGB versions, which I've copied below for reference. For the full list of colors
+specified in other formats, see [the main Solarized home page][solarized]
 
     SOLARIZED sRGB
     --------- -----------
