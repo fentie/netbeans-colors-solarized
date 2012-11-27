@@ -6,8 +6,12 @@
     <fontcolor foreColor="ff268bc4" name="name"/>
     <fontcolor name="whitespace"/>
     <fontcolor foreColor="ffcb4b16" name="value"/>
+    <fontcolor foreColor="ff509a05" name="section_delim">
+        <font style="bold"/>
+    </fontcolor>
     <fontcolor name="comment"/>
     <fontcolor foreColor="ff859900" name="section">
         <font style="bold"/>
     </fontcolor>
+    <fontcolor foreColor="ff2aa298" name="key"/>
 </fontscolors>
